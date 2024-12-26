@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 
-//const API_BASE = "http://localhost:3001";
-const API_BASE = "http://3.142.251.170";
+const API_BASE = "http://localhost:3001";
+// const API_BASE = "http://3.142.251.170";
 
 function App() {
   //item list state
